@@ -1,5 +1,3 @@
-# Albert Kingston Wang 185114007
-# Yulius Brilian Abdikrisfani Sinaba 185114002
 def get():
     x = [[1, 1, 1, 1, 1, 1, 1,
           1, 0, 0, 0, 0, 0, 1,

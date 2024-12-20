@@ -1,6 +1,5 @@
-# Albert Kingston Wang 185114007
+# Albert Kingston Wang 231012000079
 
-# UAS JST Backpropagation py GUI
 #sel 1 net v
 #sel 0 net w
 from tkinter import*

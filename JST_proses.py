@@ -1,6 +1,3 @@
-# Albert Kingston Wang 185114007
-# Yulius Brilian Abdikrisfani Sinaba 185114002
-# UAS JST Backpropagation py proses
 #sel 1 net v
 #sel 0 net w
 from random import randint
